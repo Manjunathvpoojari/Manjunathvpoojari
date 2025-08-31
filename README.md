@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br>
-      <a href="https://www.google.com/search?q=python+definition" target="_blank"><b><span style="color:white;">Python</span></b></a>
+      <a href="https://www.google.com/search?q=python+definition" target="_blank"><b<span style="color:white;">>Python</span></b></a>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br>
