@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Your Name Here 👋</h1>
+<h1 align="center">Hi, I'm Manjunath V Poojari </h1>
 <p align="center">
   Passionate and driven Software Engineer | Data Science & AI Enthusiast
 </p>
@@ -14,7 +14,6 @@
 
 ---
 
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
@@ -38,12 +37,6 @@
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="ReactJS" /> <b>React.js</b>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas" height="48" alt="Pandas" /> <b>Pandas</b>
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy" height="48" alt="NumPy" /> <b>NumPy</b>
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" /> <b>TensorFlow</b>
