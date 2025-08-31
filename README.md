@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manjunath V Poojari 🙋‍♂️</h1>
+<h1 align="center">Hi, I'm Manjunath V Poojari 👋</h1>
 <p align="center">
   Passionate and driven Software Engineer | Data Science & AI Enthusiast
 </p>
@@ -55,9 +55,9 @@
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [Manjunathvpoojari](https://github.com/Manjunathvpoojari)
-- **LinkedIn:** [manjunath-v-poojari](https://www.linkedin.com/in/manjunath-v-poojari)
-- **Portfolio:** [Portfolio Website](https://manjunathvpoojari.github.io/Portfolio/)
+- [GitHub](https://github.com/Manjunathvpoojari)
+- [LinkedIn](https://www.linkedin.com/in/manjunath-v-poojari)
+- [Portfolio](https://manjunathvpoojari.github.io/Portfolio/)
 
 ---
 
