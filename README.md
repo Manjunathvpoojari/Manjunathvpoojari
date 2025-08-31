@@ -55,7 +55,6 @@
 
 ## 🤝 Let's Connect
 
-- [GitHub](https://github.com/Manjunathvpoojari)
 - [LinkedIn](https://www.linkedin.com/in/manjunath-v-poojari)
 - [Portfolio](https://manjunathvpoojari.github.io/Portfolio/)
 
