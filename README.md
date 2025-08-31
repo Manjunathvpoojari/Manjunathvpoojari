@@ -49,12 +49,12 @@ Here is a list of the technologies and tools I'm proficient in:
 </div>
 
 🤝 Let's Connect
-GitHub: https://github.com/Manjunathvpoojari
+GitHub: [Your GitHub Profile Link]
 
-LinkedIn: https://www.linkedin.com/in/manjunath-v-poojari
+LinkedIn: [Your LinkedIn Profile Link]
 
-Portfolio/Website: https://manjunathvpoojari.github.io/Portfolio/
+Portfolio/Website: [Your Portfolio/Website Link]
 
 Looking forward to connecting and collaborating!
 
-![Profile views](https://komarev.com/ghpvc/?username=[Manjunathvpoojari]&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=[Your GitHub Username]&color=blue)
