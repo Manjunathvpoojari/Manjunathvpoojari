@@ -51,17 +51,11 @@
   </tr>
   <tr>
     <!-- Machine Learning (use an abstract brain or gear or AI icon) -->
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brain/brain-original.svg" height="40" alt="Machine Learning"/><br>
-  <b>Machine Learning</b>
-</td>
+<td align="center"><img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br><b>Machine Learning</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ai" height="48" alt="Artificial Intelligence" /><br><b>Artificial Intelligence</b></td>
   </tr>
   <tr>
-<td align="center">
-  <img src="https://img.icons8.com/ios-filled/50/228BE6/data-science.png" height="40" alt="Data Science"/><br>
-  <b>Data Science</b>
-</td>
+<td align="center"><img src="https://img.icons8.com/ios/50/4D8FAC/data-science.png" height="40" alt="Data Science"/><br><b>Data Science</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /><br><b>Git</b></td>
   </tr>
   <tr>
