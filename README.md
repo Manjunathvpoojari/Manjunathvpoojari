@@ -16,25 +16,60 @@
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="ReactJS" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="48" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="48" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="48" alt="Streamlit" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="48" alt="Scikit-learn" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing" />
-  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="Artificial Intelligence" />
-  <img src="https://skillicons.dev/icons?i=ml" height="48" alt="Machine Learning" />
-  <img src="https://skillicons.dev/icons?i=datascience" height="48" alt="Data Science" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /> <b>Python</b>
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /> <b>Java</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" /> <b>C</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" /> <b>HTML5</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" /> <b>CSS3</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /> <b>JavaScript</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="ReactJS" /> <b>React.js</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas" height="48" alt="Pandas" /> <b>Pandas</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy" height="48" alt="NumPy" /> <b>NumPy</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" /> <b>TensorFlow</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=streamlit" height="48" alt="Streamlit" /> <b>Streamlit</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="48" alt="Scikit-learn" /> <b>Scikit-learn</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ml" height="48" alt="Machine Learning" /> <b>Machine Learning</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="Artificial Intelligence" /> <b>Artificial Intelligence</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=datascience" height="48" alt="Data Science" /> <b>Data Science</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /> <b>Git</b>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing" /> <b>Cloud Computing</b>
+</p>
+
 
 ---
 
