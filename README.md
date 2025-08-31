@@ -43,6 +43,11 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br><b>Git</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br><b>Cloud Computing</b></td>
   </tr>
+   <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="40" alt="Power BI"/><br><b>Power BI</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/><br><b>Vercel</b></td>
+  </tr>
 </table>
 
 
