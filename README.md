@@ -19,34 +19,106 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br><b>Java</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/><br><b>C</b></td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=python" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br><b>Python</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=java" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br><b>Java</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=c+programming" target="_blank">
+        <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/><br><b>C</b>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/><br><b>HTML5</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/><br><b>CSS3</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/><br><b>JavaScript</b></td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=html5" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/><br><b>HTML5</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=css3" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/><br><b>CSS3</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=javascript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/><br><b>JavaScript</b>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React.js"/><br><b>React.js</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br><b>Streamlit</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br><b>Pandas</b></td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=reactjs" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" height="48" alt="React.js"/><br><b>React.js</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=streamlit" target="_blank">
+        <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br><b>Streamlit</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=pandas+python" target="_blank">
+        <img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br><b>Pandas</b>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy"/><br><b>NumPy</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="Scikit-learn"/><br><b>Scikit-learn</b></td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br><b>Machine Learning</b></td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=numpy" target="_blank">
+        <img src="https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy"/><br><b>NumPy</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=scikit-learn" target="_blank">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="Scikit-learn"/><br><b>Scikit-learn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=machine+learning" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br><b>Machine Learning</b>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/4D8FAC/database.png" height="40" alt="Data Science"/><br><b>Data Science</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br><b>Git</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br><b>Cloud Computing</b></td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=data+science" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/4D8FAC/database.png" height="40" alt="Data Science"/><br><b>Data Science</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=git" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br><b>Git</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=cloud+computing" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br><b>Cloud Computing</b>
+      </a>
+    </td>
   </tr>
-   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="40" alt="Power BI"/><br><b>Power BI</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/><br><b>Vercel</b></td>
+  <tr>
+    <td align="center">
+      <a href="https://www.google.com/search?q=power+bi" target="_blank">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="40" alt="Power BI"/><br><b>Power BI</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=mongodb" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/><br><b>MongoDB</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=vercel" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/><br><b>Vercel</b>
+      </a>
+    </td>
   </tr>
 </table>
 
