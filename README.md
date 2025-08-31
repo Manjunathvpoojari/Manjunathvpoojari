@@ -56,9 +56,8 @@
   </tr>
   <tr>
 <td align="center">
- <img src="https://img.icons8.com/ios-filled/50/4D8FAC/combo-chart.png" height="40" alt="Bar Chart"/>
+<img src="https://img.icons8.com/ios-filled/50/4D8FAC/pie-chart.png" height="40" alt="Pie Chart"/>
 <b>Data Science</b>
-
 </td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /><br><b>Git</b></td>
   </tr>
