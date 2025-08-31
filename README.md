@@ -46,7 +46,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" /><br><b>TensorFlow</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=streamlit" height="48" alt="Streamlit" /><br><b>Streamlit</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br><b>Streamlit</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="48" alt="Scikit-learn" /><br><b>Scikit-learn</b></td>
   </tr>
   <tr>
