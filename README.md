@@ -19,53 +19,32 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" /><br><b>Java</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br><b>Java</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/><br><b>C</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="48" alt="C" /><br><b>C</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" /><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/><br><b>JavaScript</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" /><br><b>CSS3</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /><br><b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="48" alt="ReactJS" /><br><b>React.js</b></td>
-   <td align="center">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="40"/><br>
-  <b>Pandas</b>
-</td>
-  </tr>
-  <tr>
-   <!-- NumPy -->
-<td align="center">
-  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="40"/><br>
-  <b>NumPy</b>
-</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" /><br><b>TensorFlow</b></td>
-  </tr>
-  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React.js"/><br><b>React.js</b></td>
     <td align="center"><img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br><b>Streamlit</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="48" alt="Scikit-learn" /><br><b>Scikit-learn</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br><b>Pandas</b></td>
   </tr>
   <tr>
-    <!-- Machine Learning (use an abstract brain or gear or AI icon) -->
-<td align="center"><img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br><b>Machine Learning</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ai" height="48" alt="Artificial Intelligence" /><br><b>Artificial Intelligence</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy"/><br><b>NumPy</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="Scikit-learn"/><br><b>Scikit-learn</b></td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br><b>Machine Learning</b></td>
   </tr>
   <tr>
-<td align="center">
-<img src="https://img.icons8.com/ios-filled/50/4D8FAC/pie-chart.png" height="40" alt="Pie Chart"/>
-<b>Data Science</b>
-</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /><br><b>Git</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing" /><br><b>Cloud Computing</b></td>
-    <td></td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/4D8FAC/database.png" height="40" alt="Data Science"/><br><b>Data Science</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br><b>Cloud Computing</b></td>
   </tr>
 </table>
+
 
 ---
 
