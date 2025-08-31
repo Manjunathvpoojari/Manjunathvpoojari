@@ -1,60 +1,64 @@
-Hi there, I'm [Your Name Here] 👋
-Passionate and driven Software Engineer | Data Science & AI Enthusiast
-🌟 About Me
-A passionate and driven software engineer with a strong foundation in data structures and algorithms, coupled with a keen interest in data science, AI, and machine learning. I am eager to contribute to innovative projects and am committed to writing clean, efficient code and solving complex problems. I am a dedicated lifelong learner, always seeking to continuously improve my skills and explore new technologies.
+<h1 align="center">Hi, I'm Your Name Here 👋</h1>
+<p align="center">
+  Passionate and driven Software Engineer | Data Science & AI Enthusiast
+</p>
 
-I am also an active member of the IEEE, where I have experience in organizing and conducting events to foster community and knowledge sharing.
+---
 
-💻 Skills & Technologies
-Here is a list of the technologies and tools I'm proficient in:
+## 🌟 About Me
 
-<br>
+- 🎓 I'm a **final-year Computer Science Engineering student** with a strong interest in **backend development, full-stack projects, data engineering, and machine learning**.
+- 🚀 I enjoy building **scalable systems**, solving **real-world problems with data**, and working in **collaborative, fast-paced environments**.
+- 🌱 I'm looking for opportunities where I can **grow, learn, and contribute** to innovative tech solutions.
+- 👥 Active member of **IEEE**: Organized and conducted tech events for community and knowledge sharing.
 
-<div align="center">
-<h4>Programming Languages</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5 Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3 Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript Badge"/>
-</div>
+---
 
-<br>
+## 🛠 Skills
 
-<div align="center">
-<h4>Frameworks & Libraries</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React Badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit%26logoColor%3Dwhite" alt="Streamlit Badge"/>
-</div>
+### 💻 Programming Languages
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<div align="center">
-<h4>Tools & Platforms</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power%2520BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpower-bi%26logoColor%3Dblack" alt="Power BI Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cloud%2520Computing-blue%3Fstyle%3Dfor-the-badge%26logo%3Dcloud-computing%26logoColor%3Dwhite" alt="Cloud Computing Badge"/>
-</div>
+### ⚙️ Frameworks & Development
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<div align="center">
-<h4>Domains</h4>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AI-000000%3Fstyle%3Dfor-the-badge%26logo%3Dbrain%26logoColor%3Dwhite" alt="AI Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Machine%2520Learning-red%3Fstyle%3Dfor-the-badge%26logo%3Dmachine-learning%26logoColor%3Dwhite" alt="Machine Learning Badge"/>
-</div>
+---
 
-🤝 Let's Connect
-GitHub: [Your GitHub Profile Link]
+## 📈 Other Skills
 
-LinkedIn: [Your LinkedIn Profile Link]
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-Portfolio/Website: [Your Portfolio/Website Link]
+### 🧰 Tools & Platforms
 
-Looking forward to connecting and collaborating!
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-blue?style=for-the-badge&logo=cloud&logoColor=white)
 
-![Profile views](https://komarev.com/ghpvc/?username=[Your GitHub Username]&color=blue)
+---
+
+## 🧠 Domains
+
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=brain&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=machine-learning&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
+- **GitHub:** [Manjunathvpoojari](https://github.com/Manjunathvpoojari)
+- **LinkedIn:** [manjunath-v-poojari](https://www.linkedin.com/in/manjunath-v-poojari)
+- **Portfolio:** [Portfolio Website](https://manjunathvpoojari.github.io/Portfolio/)
+
+---
+
