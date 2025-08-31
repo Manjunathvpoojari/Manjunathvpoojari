@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-- 🎓 I'm a **final-year Computer Science Engineering student** with a strong interest in **backend development, full-stack projects, data engineering, and machine learning**.
+- 🎓 I'm a **final-year Computer Science Engineering student** with a strong interest in **data engineering, machine learning, backend development, and full-stack projects**.
 - 🚀 I enjoy building **scalable systems**, solving **real-world problems with data**, and working in **collaborative, fast-paced environments**.
 - 🌱 I'm looking for opportunities where I can **grow, learn, and contribute** to innovative tech solutions.
 - 👥 Active member of **IEEE**: Organized and conducted tech events for community and knowledge sharing.
