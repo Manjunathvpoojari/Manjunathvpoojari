@@ -32,10 +32,17 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="48" alt="ReactJS" /><br><b>React.js</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="48" alt="Pandas" /><br><b>Pandas</b></td>
+   <td align="center">
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="40"/><br>
+  <b>Pandas</b>
+</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="48" alt="NumPy" /><br><b>NumPy</b></td>
+   <!-- NumPy -->
+<td align="center">
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="40"/><br>
+  <b>NumPy</b>
+</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" /><br><b>TensorFlow</b></td>
   </tr>
   <tr>
@@ -43,11 +50,18 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="48" alt="Scikit-learn" /><br><b>Scikit-learn</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ml" height="48" alt="Machine Learning" /><br><b>Machine Learning</b></td>
+    <!-- Machine Learning (use an abstract brain or gear or AI icon) -->
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brain/brain-original.svg" height="40" alt="Machine Learning"/><br>
+  <b>Machine Learning</b>
+</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ai" height="48" alt="Artificial Intelligence" /><br><b>Artificial Intelligence</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=datascience" height="48" alt="Data Science" /><br><b>Data Science</b></td>
+<td align="center">
+  <img src="https://img.icons8.com/ios-filled/50/228BE6/data-science.png" height="40" alt="Data Science"/><br>
+  <b>Data Science</b>
+</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /><br><b>Git</b></td>
   </tr>
   <tr>
