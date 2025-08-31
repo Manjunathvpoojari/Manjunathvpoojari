@@ -112,6 +112,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/manjunath-v-poojari)
 - [Portfolio](https://manjunathvpoojari.github.io/Portfolio/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/manjunathvp/)
+- [LeetCode](https://leetcode.com/u/eJfMan7Ghv/)
 
 ---
 
