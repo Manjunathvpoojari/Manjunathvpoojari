@@ -55,7 +55,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=ai" height="48" alt="Artificial Intelligence" /><br><b>Artificial Intelligence</b></td>
   </tr>
   <tr>
-<td align="center"><img src="https://img.icons8.com/ios/50/4D8FAC/data-science.png" height="40" alt="Data Science"/><br><b>Data Science</b></td>
+<td align="center">
+  <img src="https://img.icons8.com/ios-filled/50/4D8FAC/data-science.png" height="40" alt="Data Science"/><br><b>Data Science</b>
+</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /><br><b>Git</b></td>
   </tr>
   <tr>
