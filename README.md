@@ -296,7 +296,8 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
   <div align="center">
 **Visit My Portfolio(👇)**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" / >
+
 
 ---
 
