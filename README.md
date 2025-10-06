@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Manjunath+V+Poojari" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Manjunath+V+Poojari" alt="Typing SVG" />
 </h1>
 
 <h2 align="center">
@@ -295,7 +295,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 
 
-<!-- <div align="center"> -->
+  <div align="center">
 **Visit My Portfolio(👇)**
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" />
 
