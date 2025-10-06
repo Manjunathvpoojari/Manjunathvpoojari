@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&pause=1000&color=A4F7C7&center=true&vCenter=true&width=600&lines=Aspirant+Software+Engineer+%F0%9F%98%8A;Data+Science+%26+AI+Enthusiast+%F0%9F%98%84;Passianate+Machine+Learning+Engineer+%F0%9F%98%8E;Full+Stack+Developer+%F0%9F%AB%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&pause=1000&color=A4F7C7&center=true&vCenter=true&width=600&lines=Aspirant+Software+Engineer+%F0%9F%98%8A;Data+Science+%26+AI+Passianate+%F0%9F%98%84;Machine+Learning+Enthusiasts+%F0%9F%98%8E;Full+Stack+Developer+%F0%9F%AB%A1" alt="Typing SVG" />
 </h2>
 
 ---
@@ -269,24 +269,28 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-v-poojari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manjunathvpoojari.github.io/Portfolio/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/majunathvp/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eJfMan7Ghv/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjunathvpoojari)
+  </div>
 
- - <td align="center">
+  
+ - <td align="left">
       <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
       <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:white;">Github</span></b></a>
     </td>
 
-- <td align="center">
+- <td align="left">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
       <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:white;">LinkedIN</span></b></a>
     </td>
+- <td align="left">
+      <img src="https://skillicons.dev/icons?i=email" height="48" alt="Email"/><br>
+      <a href="mailto:manjunathvpoojari@gmail.com" target="_blank"><b><span style="color:white;">Email</span></b></a>
+    </td>
 
-   </div>
+ 
 
 ---
 
