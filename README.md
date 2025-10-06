@@ -277,28 +277,23 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
   
  - <td align="left">
       <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
-      <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:white;">Github</span></b></a>
+      <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:green;">Github</span></b></a>
     </td>
 
 - <td align="left">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
-      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:white;">LinkedIN</span></b></a>
+      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:green;">LinkedIN</span></b></a>
     </td>
 
 
+
+🎮 **Hobbies:** Sketching, Boxing, Reading , Astrology , Numeralogy, Story Writing.
+
 ---
 
-- 🎮 **Hobbies:** Sketching, Boxing, Reading , Astrology , Numeralogy, Story Writing.
-
-
-
-
-  <div align="center">
+- <div align="center">
 **Visit My Portfolio(👇)**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" / >
-
-https://manjunathvpoojari.github.io/Portfolio/
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 
 ---
