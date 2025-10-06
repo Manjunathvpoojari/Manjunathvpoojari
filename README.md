@@ -282,7 +282,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 - <td align="left">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
-      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color🌲;">LinkedIN</span></b></a>
+      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:#006400;">LinkedIN</span></b></a>
     </td>
 
 
