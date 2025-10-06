@@ -1,8 +1,6 @@
-# Hi, I'm Manjunath V Poojari 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manjunath+V+Poojari;Software+Engineer;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -38,12 +36,103 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br>
+      <a href="https://www.google.com/search?q=python+definition" target="_blank"><b><span style="color:white;">Python</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br>
+      <a href="https://www.google.com/search?q=java+definition" target="_blank"><b><span style="color:white;">Java</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/><br>
+      <a href="https://www.google.com/search?q=c+programming+definition" target="_blank"><b><span style="color:white;">C</span></b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/><br>
+      <a href="https://www.google.com/search?q=html5+definition" target="_blank"><b><span style="color:white;">HTML5</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/><br>
+      <a href="https://www.google.com/search?q=css3+definition" target="_blank"><b><span style="color:white;">CSS3</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/><br>
+      <a href="https://www.google.com/search?q=javascript+definition" target="_blank"><b><span style="color:white;">JavaScript</span></b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" height="48" alt="React.js"/><br>
+      <a href="https://www.google.com/search?q=reactjs+definition" target="_blank"><b><span style="color:white;">React.js</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br>
+      <a href="https://www.google.com/search?q=streamlit+definition" target="_blank"><b><span style="color:white;">Streamlit</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br>
+      <a href="https://www.google.com/search?q=pandas+python+definition" target="_blank"><b><span style="color:white;">Pandas</span></b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy"/><br>
+      <a href="https://www.google.com/search?q=numpy+definition" target="_blank"><b><span style="color:white;">NumPy</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="Scikit-learn"/><br>
+      <a href="https://www.google.com/search?q=scikit-learn+definition" target="_blank"><b><span style="color:white;">Scikit-learn</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br>
+      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">Machine Learning</span></b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/4D8FAC/database.png" height="40" alt="Data Science"/><br>
+      <a href="https://www.google.com/search?q=data+science+definition" target="_blank"><b><span style="color:white;">Data Science</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
+      <a href="https://www.google.com/search?q=git+definition" target="_blank"><b><span style="color:white;">Git</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br>
+      <a href="https://www.google.com/search?q=cloud+computing+definition" target="_blank"><b><span style="color:white;">Cloud Computing</span></b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="40" alt="Power BI"/><br>
+      <a href="https://www.google.com/search?q=power+bi+definition" target="_blank"><b><span style="color:white;">Power BI</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/><br>
+      <a href="https://www.google.com/search?q=mongodb+definition" target="_blank"><b><span style="color:white;">MongoDB</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/><br>
+      <a href="https://www.google.com/search?q=vercel+definition" target="_blank"><b><span style="color:white;">Vercel</span></b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🔄 DevOps & CI/CD
 <div align="center">
@@ -124,41 +213,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
----
-
-## 🎯 Currently Working On
-
-```python
-class ManjunathVPoojari:
-    def __init__(self):
-        self.name = "Manjunath V Poojari"
-        self.role = "Software Engineer & Data Scientist"
-        self.location = "India"
-        self.education = "B.E. in Computer Science Engineering"
-        
-    def current_projects(self):
-        return {
-            "ai_research": "Advanced ML models for predictive analytics",
-            "web_apps": "Full-stack applications with React & Node.js",
-            "data_pipelines": "ETL processes and data engineering",
-            "open_source": "Contributing to AI/ML libraries",
-            "devops": "Learning Kubernetes and container orchestration"
-        }
-    
-    def get_daily_routine(self):
-        return [
-            "☕ Coffee",
-            "💻 Code",
-            "🐛 Debug", 
-            "🚀 Deploy",
-            "📚 Learn",
-            "🔁 Repeat"
-        ]
-
-me = ManjunathVPoojari()
-print(me.get_daily_routine())
-```
 
 ---
 
