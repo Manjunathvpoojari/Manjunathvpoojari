@@ -298,6 +298,8 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" / >
 
+https://manjunathvpoojari.github.io/Portfolio/
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 
 ---
 
