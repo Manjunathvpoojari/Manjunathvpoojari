@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manjunath+V+Poojari" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A4F7C7&center=true&vCenter=true&width=600&lines=Aspirant Software+Engineer;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
-</h1>
+</h2>
 
 ---
 
