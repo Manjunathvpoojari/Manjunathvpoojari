@@ -267,9 +267,8 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manjunathvpoojari.github.io/Portfolio/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/majunathvp/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eJfMan7Ghv/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
@@ -285,12 +284,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
       <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:white;">LinkedIN</span></b></a>
     </td>
-- <td align="left">
-      <img src="https://skillicons.dev/icons?i=email" height="48" alt="Email"/><br>
-      <a href="mailto:manjunathvpoojari@gmail.com" target="_blank"><b><span style="color:white;">Email</span></b></a>
-    </td>
 
- 
 
 ---
 
@@ -301,6 +295,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
   <div align="center">
 **Visit My Portfolio(👇)**
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" />
 
 ---
