@@ -282,7 +282,7 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 - <td align="left">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
-      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:green;">LinkedIN</span></b></a>
+      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color🌲;">LinkedIN</span></b></a>
     </td>
 
 
@@ -291,15 +291,16 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-- <div align="center">
-**Visit My Portfolio(👇)**
+<div align="center">
+Visit My Portfolio(👇)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 
+</div>
 ---
 
 **"I am not scared of those who wins but truely worried about who l0ose again & again but still not giving up "** - MVP
 
-* - 💻 by Manjunath V Poojari 🦁*
+- 💻 by Manjunath V Poojari 🦁*
 
-</div>
+
