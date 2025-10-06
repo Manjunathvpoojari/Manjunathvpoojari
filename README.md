@@ -1,12 +1,7 @@
 # Hi, I'm Manjunath V Poojari 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A4F7C7&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Science+%26+AI+Enthusiast;Machine+Learning+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjunathvpoojari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/manjunathvpoojari?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 ---
