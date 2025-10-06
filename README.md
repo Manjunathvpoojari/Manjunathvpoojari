@@ -278,7 +278,12 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
  <td align="center">
       <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
-      <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:white;">Python</span></b></a>
+      <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:white;">Github</span></b></a>
+    </td>
+
+<td align="center">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
+      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:white;">LinkedIN</span></b></a>
     </td>
 
 </div>
