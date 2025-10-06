@@ -15,33 +15,7 @@
 - 🏢 Looking for opportunities where I can **grow, learn, and contribute** to innovative tech solutions
 - 👥 Active member of **IEEE**: Organized and conducted tech events for community and knowledge sharing
 - 🌱 Currently exploring **Advanced ML techniques, Cloud Architecture, and DevOps practices**
-- 💬 Ask me about **Python, Machine Learning, Data Science, React, and Backend Development**
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manjunathvpoojari&theme=radical&hide_border=true" />
-</div>
-
-### 📈 Contribution Graph
-
-[![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=react-dark&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-</div>
+- 💬 quite good in **Python, Machine Learning, Data Science, React, and Backend Development**
 
 ---
 
@@ -134,21 +108,50 @@
   </tr>
 </table>
 
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manjunathvpoojari&theme=radical&hide_border=true" />
+</div>
+
+### 📈 Contribution Graph
+
+[![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=react-dark&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+</div>
+
+---
+
+## 📊 Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Python       ████████████████░░░░░░░░░   65.5%
+JavaScript   ████████░░░░░░░░░░░░░░░░░   18.3%
+Java         ████░░░░░░░░░░░░░░░░░░░░░    8.7%
+HTML/CSS     ███░░░░░░░░░░░░░░░░░░░░░░    5.2%
+Other        ██░░░░░░░░░░░░░░░░░░░░░░░    2.3%
+```
+<!--END_SECTION:waka-->
+
 ---
 
 ## 🛠️ Tech Stack
-
-### 🔄 DevOps & CI/CD
-<div align="center">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-</div>
 
 ### 🤖 AI/ML & Data Science
 <div align="center">
@@ -162,6 +165,7 @@
 
 </div>
 
+
 ### 💻 Programming Languages
 <div align="center">
 
@@ -172,6 +176,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
+
 
 ### 🌐 Web Development
 <div align="center">
@@ -185,6 +190,7 @@
 
 </div>
 
+
 ### 📊 Data Science & Analytics
 <div align="center">
 
@@ -196,6 +202,7 @@
 
 </div>
 
+
 ### 🗄️ Databases & Cloud
 <div align="center">
 
@@ -205,6 +212,20 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
+
+### 🔄 DevOps & CI/CD
+<div align="center">
+  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
 
 ### 🔧 Tools & Platforms
 <div align="center">
@@ -223,11 +244,11 @@
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Completed Elevate Labs AI & ML Internship
-2. 🔨 Working on multiple data science projects
+1. 🎉 Working on Elevate Labs AI & ML Internship
+2. 🔨 Working on multiple data science and Machine Learning projects
 3. 📚 Learning advanced machine learning techniques
 4. 🤝 Contributing to open-source projects
-5. 🚀 Building scalable backend systems
+5. 🚀 Building scalable backend systems (trying)
 <!--END_SECTION:activity-->
 
 ---
@@ -235,9 +256,12 @@
 ## 🎓 Certifications & Achievements
 
 - 🏅 **AI & ML Internship** - Elevate Labs
+- 🏅 **Web Internship** - Elevate Labs
+- 🏅 **Java Internship** - Codsoft
 - 🏆 **IEEE Active Member** - Event Organization & Technical Community Leadership
 - 📊 **Data Science Projects** - Multiple end-to-end ML implementations
 - 💡 **Problem Solver** - Active on LeetCode and GeeksforGeeks
+- 📃 **Part of Multiple Hackathon** - Participated in Ctrl+Alt+Compete (R.V. College Bangalore), HackYugma (24 hour State level), MonAIthon(36 hour State level), SIH 2025 Participant (National Level qualified)
 
 ---
 
@@ -252,49 +276,19 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjunathvpoojari)
 
+ <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
+      <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:white;">Python</span></b></a>
+    </td>
+
 </div>
 
 ---
 
-## 💼 Work Experience
+- 🎮 **Hobbies:** Sketching, Boxing, Reading , Astrology , Numeralogy, Story Writing.
 
-```yaml
-experience:
-  - role: "AI/ML Intern"
-    company: "Elevate Labs"
-    duration: "2023"
-    highlights:
-      - Developed machine learning models
-      - Worked on real-world AI applications
-      - Collaborated with cross-functional teams
-```
 
----
 
-## ⚡ Fun Facts
-
-- 🎯 **2024 Goal:** Contribute to 10+ open-source projects
-- 📊 **Currently Learning:** Advanced Docker & Kubernetes orchestration
-- 🚀 **Next Project:** Real-time data streaming platform with Apache Kafka
-- 💡 **Philosophy:** "Code is like humor. When you have to explain it, it's bad." - Cory House
-- 🎮 **Hobbies:** Solving algorithmic challenges, exploring new tech stacks
-- ☕ **Fuel:** Coffee and curiosity
-
----
-
-## 📊 Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████░░░░░░░░░   65.5%
-JavaScript   ████████░░░░░░░░░░░░░░░░░   18.3%
-Java         ████░░░░░░░░░░░░░░░░░░░░░    8.7%
-HTML/CSS     ███░░░░░░░░░░░░░░░░░░░░░░    5.2%
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░    2.3%
-```
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
 
@@ -310,8 +304,8 @@ If you like what I do, consider starring my repositories and following me!
 
 ---
 
-**"First, solve the problem. Then, write the code."** - John Johnson
+**"I am not scared of those who wins but truely worried about who l0ose again & again but still not giving up "** - MVP
 
-*💻 Built with ❤️ by Manjunath V Poojari*
+* - 💻 by Manjunath V Poojari 🦁*
 
 </div>
