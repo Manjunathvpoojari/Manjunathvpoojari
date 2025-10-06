@@ -276,17 +276,17 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjunathvpoojari)
 
- <td align="center">
+ - <td align="center">
       <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
       <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:white;">Github</span></b></a>
     </td>
 
-<td align="center">
+- <td align="center">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
       <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b><span style="color:white;">LinkedIN</span></b></a>
     </td>
 
-</div>
+   </div>
 
 ---
 
@@ -295,17 +295,9 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 
 
-<div align="center">
-
-### 🌟 Support My Work
-
-If you like what I do, consider starring my repositories and following me!
-
+<!-- <div align="center"> -->
+**Visit My Portfolio(👇)**
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true" />
-
-### 🎊 Thanks for visiting my profile!
-
-![Snake animation](https://github.com/manjunathvpoojari/manjunathvpoojari/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
