@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Manjunath+V+Poojari" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+I'm+Manjunath+V+Poojari" alt="Typing SVG" />
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A4F7C7&center=true&vCenter=true&width=600&lines=Aspirant+Software+Engineer+%F0%9F%98%8A;Data+Science+%26+AI+Enthusiast+%F0%9F%98%84;Passianate+Machine+Learning+Engineer+%F0%9F%98%8E;Full+Stack+Developer+%F0%9F%AB%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&pause=1000&color=A4F7C7&center=true&vCenter=true&width=600&lines=Aspirant+Software+Engineer+%F0%9F%98%8A;Data+Science+%26+AI+Enthusiast+%F0%9F%98%84;Passianate+Machine+Learning+Engineer+%F0%9F%98%8E;Full+Stack+Developer+%F0%9F%AB%A1" alt="Typing SVG" />
 </h2>
 
 ---
