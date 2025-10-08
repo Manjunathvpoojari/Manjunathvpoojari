@@ -275,7 +275,7 @@ Visit My Portfolio(👇)
 </div>
 ---
 
-**"I am not scared of those who wins but truely worried about who l0ose again & again but still not giving up "** - MVP
+**"I am not scared of those who wins but truely worried about who loose again & again but still not giving up "** - MVP
 
 - 💻 by Manjunath V Poojari 🦁*
 
