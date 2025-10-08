@@ -241,30 +241,6 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Working on Elevate Labs AI & ML Internship
-2. 🔨 Working on multiple data science and Machine Learning projects
-3. 📚 Learning advanced machine learning techniques
-4. 🤝 Contributing to open-source projects
-5. 🚀 Building scalable backend systems (trying)
-<!--END_SECTION:activity-->
-
----
-
-## 🎓 Certifications & Achievements
-
-- 🏅 **AI & ML Internship** - Elevate Labs
-- 🏅 **Web Internship** - Elevate Labs
-- 🏅 **Java Internship** - Codsoft
-- 🏆 **IEEE Active Member** - Event Organization & Technical Community Leadership
-- 📊 **Data Science Projects** - Multiple end-to-end ML implementations
-- 💡 **Problem Solver** - Active on LeetCode and GeeksforGeeks
-- 📃 **Part of Multiple Hackathon** - Participated in Ctrl+Alt+Compete (R.V. College Bangalore), HackYugma (24 hour State level), MonAIthon(36 hour State level), SIH 2025 Participant (National Level qualified)
-
----
-
 ## 📫 Let's Connect
 
 <div align="left">
