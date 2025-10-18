@@ -186,7 +186,7 @@ Visit My Portfolio(👇)
 </div>
 ---
 
-**"I am not scared of those who wins but truely worried about who loose again & again but still not giving up "** - MVP
+**"I don’t fear those who win; I truly admire those who keep fighting despite losing again and again without giving up."** - MVP
 
 - 💻 by Manjunath V Poojari 🦁*
 
