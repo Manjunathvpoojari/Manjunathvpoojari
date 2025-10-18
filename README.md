@@ -184,9 +184,10 @@ Visit My Portfolio(👇)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 
 </div>
+
 ---
 
-**"I don’t fear those who win; I truly admire those who keep fighting despite losing again and again without giving up."** - MVP
+**"I don’t fear those who win; I truly admire and fear those who keep fighting despite losing again and again without giving up."** - MVP
 
 - 💻 by Manjunath V Poojari 🦁*
 
