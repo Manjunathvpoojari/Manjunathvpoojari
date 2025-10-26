@@ -132,7 +132,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 </div>
 
 ---
