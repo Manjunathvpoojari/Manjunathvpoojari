@@ -129,11 +129,12 @@
 
 [![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=react-dark&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
 
+
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManjunathVPoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</p>
 
 ---
 
