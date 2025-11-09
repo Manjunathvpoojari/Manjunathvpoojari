@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me
+## 🧑🏻‍🎓 About Me
 
 - 🎓 **Final-year Computer Science Engineering student** with a strong interest in **data engineering, machine learning, backend development, and full-stack projects**
 - 🚀 Building **scalable systems**, solving **real-world problems with data**, and working in **collaborative, fast-paced environments**
