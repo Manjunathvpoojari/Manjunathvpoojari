@@ -189,7 +189,7 @@ Visit My Portfolio(👇)
 
 ---
 
-**"I don’t fear those who win 🙂; I fear about those who keep fighting again and again 🙌🏻without giving up ☠️despite losing."** 
+**"I don’t fear those who win 🙂; I fear about those who keep fighting again and again 🙌🏻without giving up despite losing."** 
 
 -MVP
 
