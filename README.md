@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <table>
   <tr>
