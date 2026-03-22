@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=10000&speed=50&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manjunath+V+Poojari" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=10000&speed=50&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manjunath+V+Poojari" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1200&color=00FF7F&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Machine+Learning+%26+AI+Enthusiast;Full+Stack+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1200&color=00FF7F&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Machine+Learning+%26+AI+Enthusiast;Full+Stack+Developer"/>
 </h3>
 
 
