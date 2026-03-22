@@ -142,9 +142,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=flat&no-frame=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=algolia&no-frame=true&margin-w=4&row=2&column=3"/>
 </p>
-
 ---
 
 ## 📊 Coding Stats
