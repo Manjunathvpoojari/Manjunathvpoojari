@@ -55,12 +55,12 @@
       <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/><br>
       <a href="https://www.google.com/search?q=javascript+definition" target="_blank"><b><span style="color:white;">JavaScript</span></b></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" height="48" alt="React.js"/><br>
       <a href="https://www.google.com/search?q=reactjs+definition" target="_blank"><b><span style="color:white;">React.js</span></b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br>
       <a href="https://www.google.com/search?q=streamlit+definition" target="_blank"><b><span style="color:white;">Streamlit</span></b></a>
