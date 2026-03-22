@@ -115,27 +115,25 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=merko&count_private=true&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=merko&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manjunathvpoojari&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=merko&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manjunathvpoojari&theme=merko&hide_border=true" />
 </div>
 
 ### 📈 Contribution Graph
 
-[![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=react-dark&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
-
+[![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=merko&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=merko&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </p>
-
 
 ---
 
