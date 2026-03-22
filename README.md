@@ -80,10 +80,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br>
-      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">Machine Learning</span></b></a>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy"/><br>
       <a href="https://www.google.com/search?q=numpy+definition" target="_blank"><b><span style="color:white;">NumPy</span></b></a>
     </td>
@@ -95,26 +91,26 @@
       <img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br>
       <a href="https://www.google.com/search?q=pandas+python+definition" target="_blank"><b><span style="color:white;">Pandas</span></b></a>
     </td>
+     <td align="center">
+      <img src="https://img.shields.io/badge/Image%20Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40" alt="DL and IP"/><br>
+      <a href="https://www.google.com/search?q=image+processing+definition" target="_blank"><b><span style="color:white;">Image Processing</span></b></a>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/4D8FAC/database.png" height="40" alt="Data Science"/><br>
       <a href="https://www.google.com/search?q=data+science+definition" target="_blank"><b><span style="color:white;">Data Science</span></b></a>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br>
-      <a href="https://www.google.com/search?q=cloud+computing+definition" target="_blank"><b><span style="color:white;">Cloud Computing</span></b></a>
+     <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br>
+      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">Machine Learning</span></b></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="40" alt="Power BI"/><br>
-      <a href="https://www.google.com/search?q=power+bi+definition" target="_blank"><b><span style="color:white;">Power BI</span></b></a>
+     <td align="center">
+      <img src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="Flutter"/><br>
+      <a href="https://www.google.com/search?q=flutter+definition" target="_blank"><b><span style="color:white;">Flutter</span></b></a>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/><br>
-      <a href="https://www.google.com/search?q=mongodb+definition" target="_blank"><b><span style="color:white;">MongoDB</span></b></a>
-    </td>
+    
+   
   </tr>
 </table>
 
