@@ -131,7 +131,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
 </div>
@@ -145,9 +145,6 @@
 
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=algolia&no-frame=true&margin-w=4&row=2&column=3"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Manjunathvpoojari&show_icons=true&theme=algolia"/>
 </p>
 
 ---
