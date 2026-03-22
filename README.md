@@ -200,9 +200,10 @@ Visit My Portfolio(👇)
 
 ---
 
-**"I don’t fear those who win 🙂; I fear about those who keep fighting again and again 🙌🏻without giving up despite losing."** 
+- Quotes to remember
+**"Slow and Steady wins the race.(Fast might make you win but end will be disaster , slow might make you think looser but teaches how to lead a life."** 
 
--MVP
+
 
 - 💻 by Manjunath V Poojari *
   
