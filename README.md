@@ -120,6 +120,7 @@
 
 ---
 
+
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
@@ -144,6 +145,8 @@
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=algolia&no-frame=true&margin-w=4&row=2&column=3"/>
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Manjunathvpoojari&show_icons=true&theme=algolia"/>
+
 ---
 
 ## 📊 Coding Stats
@@ -168,17 +171,17 @@ No activity tracked
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
   </div>
 
-  
- - <td align="left">
+  <tr>
+<td align="left">
       <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
       <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:green;">Github</span></b></a>
     </td>
 
-- <td align="left">
+<td align="left">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
     <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b>LinkedIN</b></a>
   </td>
-
+</tr>
 
 
 🎮 **Hobbies:** Sketching, Boxing, Reading , Astrology , Numeralogy, Story Writing.
@@ -188,7 +191,7 @@ No activity tracked
 <div align="center">
 Visit My Portfolio(👇)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=radical&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 
 </div>
 
