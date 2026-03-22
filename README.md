@@ -65,6 +65,18 @@
       <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br>
       <a href="https://www.google.com/search?q=streamlit+definition" target="_blank"><b><span style="color:white;">Streamlit</span></b></a>
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/gradio-FF7C00.svg?logo=gradio&logoColor=white&style=for-the-badge" height="48" alt="Gradio"/><br>
+      <a href="https://www.google.com/search?q=gradio+definition" target="_blank"><b><span style="color:white;">Gradio</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/><br>
+      <a href="https://www.google.com/search?q=vercel+definition" target="_blank"><b><span style="color:white;">Vercel</span></b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" height="48" alt="Git"/><br>
+      <a href="https://www.google.com/search?q=github+definition" target="_blank"><b><span style="color:white;">GitHub</span></b></a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -90,10 +102,6 @@
       <a href="https://www.google.com/search?q=data+science+definition" target="_blank"><b><span style="color:white;">Data Science</span></b></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
-      <a href="https://www.google.com/search?q=git+definition" target="_blank"><b><span style="color:white;">Git</span></b></a>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=cloudflare" height="48" alt="Cloud Computing"/><br>
       <a href="https://www.google.com/search?q=cloud+computing+definition" target="_blank"><b><span style="color:white;">Cloud Computing</span></b></a>
     </td>
@@ -106,10 +114,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/><br>
       <a href="https://www.google.com/search?q=mongodb+definition" target="_blank"><b><span style="color:white;">MongoDB</span></b></a>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/><br>
-      <a href="https://www.google.com/search?q=vercel+definition" target="_blank"><b><span style="color:white;">Vercel</span></b></a>
     </td>
   </tr>
 </table>
