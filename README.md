@@ -37,7 +37,10 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=dart" height="48" alt="C"/><br>
-      <a href="https://www.google.com/search?q=dart+definition" target="_blank"><b><span style="color:white; text-decoration:none;">Dart</span></b></a>
+      <a href="https://www.google.com/search?q=dart+definition" target="_blank" 
+   style="color:white; text-decoration:none;">
+   <b>Dart</b>
+</a>
     </td>
   </tr>
   <tr>
