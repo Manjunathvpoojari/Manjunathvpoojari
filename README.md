@@ -200,8 +200,8 @@ Visit My Portfolio(👇)
 
 ---
 
-- Quotes to remember
-**"Slow and Steady wins the race.(Fast might make you win but end will be disaster , slow might make you think looser but teaches how to lead a life."** 
+- Quotes to remember:
+- **"Slow and Steady wins the race.(Fast might make you win but end will be disaster , slow might make you think looser but teaches how to lead a life."** 
 
 
 
