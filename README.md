@@ -121,13 +121,13 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=merko&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=manjunathvpoojari&theme=merko&hide_border=true" />
 </div>
 
 ### 📈 Contribution Graph
 
-[![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=merko&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
+[![Manjunath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjunathvpoojari&theme=radical&hide_border=true&area=true)](https://github.com/manjunathvpoojari)
 
 ### 🏆 GitHub Trophies
 
