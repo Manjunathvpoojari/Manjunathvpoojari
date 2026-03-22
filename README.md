@@ -125,8 +125,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=chartreuse-dark&hide_border=true" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
