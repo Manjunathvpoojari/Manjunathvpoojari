@@ -131,7 +131,7 @@
 </div>
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
   
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
 </div>
