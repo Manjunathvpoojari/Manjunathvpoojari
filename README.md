@@ -10,10 +10,10 @@
 
 ## About Me
 
-- Final-year Computer Science Engineering student with strong interests in `Mobile Application Development (Flutter), Data Science, Machine Learning, Backend Systems, and Full-Stack Development`
+- Final-year Computer Science Engineering student with strong interests in Mobile Application Development (Flutter), Data Science, Machine Learning, Backend Systems, and Full-Stack Development
 - Currently working as a `Flutter Mobile Application Intern`, gaining hands-on experience in building scalable and user-friendly mobile applications
-- Passionate about developing **real-world solutions** by combining **data-driven insights with practical application development**
-- Seeking opportunities to contribute to **innovative and impactful projects** while continuously enhancing technical expertise
+- Passionate about developing `real-world solutions` by combining `data-driven insights with practical application development`
+- Seeking opportunities to contribute to  `innovative and impactful projects` while continuously enhancing technical expertise
 - Former **IEEE member**, actively contributed to organizing and conducting technical events and fostering collaborative learning environments
 - Currently exploring **Advanced Machine Learning, Cloud Architecture, and DevOps practices**
 - Proficient in **Flutter, Dart, Python, Machine Learning, Data Science, React, and Backend Development**
