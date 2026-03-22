@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manjunath+V+Poojari" />
-</h1>
+<h1 align="center">Hi, I'm Manjunath V Poojari</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00FF7F&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Machine+Learning+%26+AI+Enthusiast;Full+Stack+Developer" />
