@@ -125,14 +125,14 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=chartreuse-dark&hide_border=true" />
+<img width="77%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathvpoojari&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
 </div>
 
 ### 📈 Contribution Graph
