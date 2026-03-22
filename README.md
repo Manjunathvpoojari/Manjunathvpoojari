@@ -145,7 +145,9 @@
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=Manjunathvpoojari&theme=algolia&no-frame=true&margin-w=4&row=2&column=3"/>
 </p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Manjunathvpoojari&show_icons=true&theme=algolia"/>
+</p>
 
 ---
 
@@ -171,17 +173,20 @@ No activity tracked
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
   </div>
 
-  <tr>
-<td align="left">
-      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
-      <a href="https://github.com/manjunathvpoojari" target="_blank"><b><span style="color:green;">Github</span></b></a>
-    </td>
 
-<td align="left">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Linkedin"/><br>
-    <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b>LinkedIN</b></a>
-  </td>
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
+      <a href="https://github.com/manjunathvpoojari" target="_blank"><b>GitHub</b></a>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/><br>
+      <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b>LinkedIn</b></a>
+    </td>
+  </tr>
+</table>
+
 
 
 🎮 **Hobbies:** Sketching, Boxing, Reading , Astrology , Numeralogy, Story Writing.
