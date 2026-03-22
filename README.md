@@ -65,12 +65,12 @@
       <img src="https://img.shields.io/badge/streamlit-FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="Streamlit"/><br>
       <a href="https://www.google.com/search?q=streamlit+definition" target="_blank"><b><span style="color:white;">Streamlit</span></b></a>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br>
-      <a href="https://www.google.com/search?q=pandas+python+definition" target="_blank"><b><span style="color:white;">Pandas</span></b></a>
-    </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br>
+      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">Machine Learning</span></b></a>
+    </td>
     <td align="center">
       <img src="https://img.shields.io/badge/numpy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy"/><br>
       <a href="https://www.google.com/search?q=numpy+definition" target="_blank"><b><span style="color:white;">NumPy</span></b></a>
@@ -80,8 +80,8 @@
       <a href="https://www.google.com/search?q=scikit-learn+definition" target="_blank"><b><span style="color:white;">Scikit-learn</span></b></a>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br>
-      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">Machine Learning</span></b></a>
+      <img src="https://img.shields.io/badge/pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas"/><br>
+      <a href="https://www.google.com/search?q=pandas+python+definition" target="_blank"><b><span style="color:white;">Pandas</span></b></a>
     </td>
   </tr>
   <tr>
