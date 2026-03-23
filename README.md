@@ -149,7 +149,7 @@
 
 ---
 
-## 📊 Coding Stats
+## 📊 Stats
 
 <!--START_SECTION:waka-->
 
