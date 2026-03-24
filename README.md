@@ -168,16 +168,12 @@ YAML       1 min                 ▒░░░░░░░░░░░░░░�
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/majunathvp/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/eJfMan7Ghv/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathvpoojari@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvp767628@gmail.com)
   </div>
 
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br>
-      <a href="https://github.com/manjunathvpoojari" target="_blank"><b>GitHub</b></a>
-    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/><br>
       <a href="https://www.linkedin.com/in/manjunath-v-poojari" target="_blank"><b>LinkedIn</b></a>
