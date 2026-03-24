@@ -8,9 +8,12 @@
 
 
 
+
 ## About Me
 
+
 Final-year Computer Science Engineering student passionate about building real-world solutions through Mobile App Development, Machine Learning, and Full-Stack Development. Currently a Flutter Mobile Application Intern, focused on creating scalable and user-friendly apps. Former IEEE member with experience in organizing technical events and fostering collaboration. Actively exploring advanced concepts in Machine Learning, Cloud, and DevOps.
+
 
 ---
 
