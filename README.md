@@ -198,7 +198,7 @@ Visit My Portfolio(👇)
 
 ---
 
-**"Slow and Steady wins the race.(Fast might make you win but end will be disaster , slow might make you think looser but teaches how to lead a life."** 
+**"Life is simple - If you can you will, If you cannot you can develop ability to make it, If you aren't life is hard."** 
 
 
 
