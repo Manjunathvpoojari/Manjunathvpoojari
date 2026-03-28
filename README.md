@@ -63,7 +63,7 @@ Final-year Computer Science Engineering student passionate about building real-w
       <a href="https://www.google.com/search?q=reactjs+definition" target="_blank"><b><span style="color:white;">React.js</span></b></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=node" height="48" alt="Node.js"/><br>
+      <img src="https://skillicons.dev" height="48" alt="Node.js"/><br>
       <a href="https://www.google.com/search?q=nodejs+definition" target="_blank"><b><span style="color:white;">Node.js</span></b></a>
     </td>
   </tr>
