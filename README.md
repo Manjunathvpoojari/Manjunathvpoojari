@@ -35,7 +35,7 @@ Final-year Computer Science Engineering student passionate about building real-w
       <a href="https://www.google.com/search?q=c+programming+definition" target="_blank"><b><span style="color:white;">C</span></b></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c++" height="48" alt="C++"/><br>
+      <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"/><br>
       <a href="https://www.google.com/search?q=cpp+programming+definition" target="_blank"><b><span style="color:white;">C++</span></b></a>
     </td>
       <td align="center">
@@ -62,6 +62,10 @@ Final-year Computer Science Engineering student passionate about building real-w
       <img src="https://skillicons.dev/icons?i=react" height="48" alt="React.js"/><br>
       <a href="https://www.google.com/search?q=reactjs+definition" target="_blank"><b><span style="color:white;">React.js</span></b></a>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=node" height="48" alt="Node.js"/><br>
+      <a href="https://www.google.com/search?q=nodejs+definition" target="_blank"><b><span style="color:white;">Node.js</span></b></a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -80,6 +84,11 @@ Final-year Computer Science Engineering student passionate about building real-w
       <img src="https://skillicons.dev/icons?i=github" height="48" alt="Git"/><br>
       <a href="https://www.google.com/search?q=github+definition" target="_blank"><b><span style="color:white;">GitHub</span></b></a>
     </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/><br>
+      <a href="https://www.google.com/search?q=firebase+definition" target="_blank"><b><span style="color:white;">Firebase</span></b></a>
+    </td>
+    
   </tr>
   <tr>
     <td align="center">
@@ -98,6 +107,11 @@ Final-year Computer Science Engineering student passionate about building real-w
       <img src="https://img.shields.io/badge/Image%20Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40" alt="DL and IP"/><br>
       <a href="https://www.google.com/search?q=image+processing+definition" target="_blank"><b><span style="color:white;">Image Processing</span></b></a>
     </td>
+ <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase"/><br>
+      <a href="https://www.google.com/search?q=supabase+definition" target="_blank"><b><span style="color:white;">Supabase</span></b></a>
+    </td>
+    
   </tr>
   <tr>
     <td align="center">
@@ -106,7 +120,7 @@ Final-year Computer Science Engineering student passionate about building real-w
     </td>
      <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png" height="40" alt="Machine Learning"/><br>
-      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">Machine Learning</span></b></a>
+      <a href="https://www.google.com/search?q=machine+learning+definition" target="_blank"><b><span style="color:white;">AI & Machine Learning</span></b></a>
     </td>
      <td align="center">
       <img src="https://img.shields.io/badge/flutter-02569B.svg?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="Flutter"/><br>
