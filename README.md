@@ -218,7 +218,7 @@ Visit My Portfolio(👇)
 
 **"Life is simple - If you can you will, If you cannot you can develop ability to make it, If you aren't life is hard."** 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.Manjunathvpoojari)
+![Profile Views](https://komarev.com/ghpvc/?username=Manjunathvpoojari&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
