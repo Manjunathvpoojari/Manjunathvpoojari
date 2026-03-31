@@ -217,8 +217,9 @@ Visit My Portfolio(👇)
 ---
 
 **"Life is simple - If you can you will, If you cannot you can develop ability to make it, If you aren't life is hard."** 
+
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Manjunathvpoojari&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  <img src="https://komarev.com/ghpvc/?username=Manjunathvpoojari&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 
