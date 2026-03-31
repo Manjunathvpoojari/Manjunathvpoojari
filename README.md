@@ -147,9 +147,9 @@ Final-year Computer Science Engineering student passionate about building real-w
 </div>
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
 </div>
 
 ### 📈 Contribution Graph
@@ -217,9 +217,9 @@ Visit My Portfolio(👇)
 ---
 
 **"Life is simple - If you can you will, If you cannot you can develop ability to make it, If you aren't life is hard."** 
-
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Manjunathvpoojari&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
+</p>
 
 
 - 💻 by Manjunath V Poojari 
