@@ -130,6 +130,10 @@ Final-year Computer Science Engineering student passionate about building real-w
       <img src="https://img.shields.io/badge/Full%20Stack-Developer-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white" height="40" alt="Full stack"/><br>
       <a href="https://www.google.com/search?q=full+stack+definition" target="_blank"><b><span style="color:white;">Full Stack</span></b></a>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/><br>
+      <a href="https://www.google.com/search?q=docker+definition" target="_blank"><b><span style="color:white;">Docker</span></b></a>
+    </td>
    
   </tr>
 </table>
