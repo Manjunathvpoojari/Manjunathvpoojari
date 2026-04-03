@@ -213,11 +213,10 @@ Kotlin       5 mins                ▓░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  
-[![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
+Visit My Portfolio(👇)
 
+[![Portfolio](https://github-readme-stats-eta-nine-28.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 </div>
-
 ---
 
 **"Life is simple - If you can you will, If you cannot you can develop ability to make it, If you aren't life is hard."** 
