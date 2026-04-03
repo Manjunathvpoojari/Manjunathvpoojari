@@ -212,9 +212,9 @@ Kotlin       5 mins                ▓░░░░░░░░░░░░░░
 ---
 
 <div align="center">
+  
 Visit My Portfolio(👇)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
+[![Portfolio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=manjunathvpoojari&repo=Portfolio&theme=chartreuse-dark&hide_border=true)](https://manjunathvpoojari.github.io/Portfolio/)
 
 </div>
 
