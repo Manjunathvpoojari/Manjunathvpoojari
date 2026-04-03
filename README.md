@@ -151,10 +151,11 @@ Final-year Computer Science Engineering student passionate about building real-w
 </div>
 
 <div align="center">
-  <img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
+  <img width="46%" src="https://github-readme-stats-eta-nine-28.vercel.app/api/top-langs/?username=manjunathvpoojari&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
   
-  <img width="51%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="51%" src="https://github-readme-stats-eta-nine-28.vercel.app/api?username=manjunathvpoojari&show_icons=true&theme=algolia&hide_border=true" />
 </div>
+
 
 ### 📈 Contribution Graph
 
