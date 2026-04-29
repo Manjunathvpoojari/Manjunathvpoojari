@@ -175,9 +175,7 @@ Final-year Computer Science Engineering student passionate about building real-w
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 hr 27 mins          ████████████████████████▒   96.70 %
-CSV    2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CSV   2 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
