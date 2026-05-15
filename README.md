@@ -175,11 +175,11 @@ Final-year Computer Science Engineering student passionate about building real-w
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              3 hrs 48 mins         ████████████████░░░░░░░░░   63.40 %
-XML               46 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Markdown          33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Kotlin            17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-YAML              14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Dart              3 hrs 34 mins         █████████████████▒░░░░░░░   68.96 %
+YAML              46 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Markdown          33 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+XML               11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JSON              3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
