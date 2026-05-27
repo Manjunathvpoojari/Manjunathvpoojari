@@ -175,11 +175,11 @@ Computer Science Engineering student passionate about building real-world soluti
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 36 mins          █████████████░░░░░░░░░░░░   51.51 %
-HTML         38 mins               █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-Git Config   18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-YAML         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown     10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Dart         1 hr 36 mins          ████████████▓░░░░░░░░░░░░   50.74 %
+HTML         41 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+Git Config   18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+YAML         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Markdown     10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
